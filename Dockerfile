@@ -1,1 +1,1 @@
-FROM redis:latest
+FROM redis:latest@sha256:b3ad79880c88e302deb5e0fed6cee3e90c0031eb90cd936b01ef2f83ff5b3ff2
